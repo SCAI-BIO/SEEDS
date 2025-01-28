@@ -1,0 +1,20 @@
+# Ignore virtual environment
+.seeds/
+
+# Ignore embeddings folder
+embeddings/
+
+# Ignore results folder
+results/
+
+# Ignore .env file (contains sensitive keys)
+.env
+
+# Ignore common system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
+

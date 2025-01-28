@@ -1,0 +1,6 @@
+StartNode,Relationship,EndNode
+FungicideX,inhibits,VenturiaFungi
+ChemicalY,interacts_with,ProteinZ
+MalusPathwayA,activated_by,FungalInfection
+GeneA,expresses,ProteinY
+FungiSpeciesZ,infects,MalusDomestica
