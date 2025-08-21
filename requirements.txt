@@ -1,5 +1,5 @@
 argparse
-dash==2.10.0
+dash==2.15.0
 matplotlib==3.7.1
 numpy==1.24.3
 openai==0.28
